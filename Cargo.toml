@@ -1,5 +1,6 @@
 [workspace]
-members = [
-    "beginner/hello",
-]
 resolver = "2"
+members = [
+  "beginner/comments",
+  "beginner/hello",
+]

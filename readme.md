@@ -18,8 +18,17 @@ cd beginner/hello && cargo run
 
 ## Adding a new project
 
-Create a crate (e.g., `beginner/foo`), then add it to `members` in `Cargo.toml`:
+1. Create the crate:
+```sh
+cargo init beginner/foo
+```
 
+2. Register it in `Cargo.toml`:
 ```toml
 members = ["beginner/hello", "beginner/foo"]
+```
+
+3. Run it:
+```sh
+cargo run -p foo
 ```
