@@ -4,6 +4,7 @@ members = [
   "beginner/comments",
   "beginner/debug",
   "beginner/display",
+  "beginner/formatting",
   "beginner/hello",
   "beginner/print",
   "beginner/testcase_list",
