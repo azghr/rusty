@@ -3,6 +3,7 @@ resolver = "2"
 members = [
   "beginner/comments",
   "beginner/debug",
+  "beginner/display",
   "beginner/hello",
   "beginner/print",
 ]
