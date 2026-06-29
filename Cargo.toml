@@ -6,4 +6,5 @@ members = [
   "beginner/display",
   "beginner/hello",
   "beginner/print",
+  "beginner/testcase_list",
 ]
