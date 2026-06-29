@@ -2,6 +2,7 @@
 resolver = "2"
 members = [
   "beginner/comments",
+  "beginner/debug",
   "beginner/hello",
   "beginner/print",
 ]
