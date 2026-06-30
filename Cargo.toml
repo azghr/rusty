@@ -10,4 +10,5 @@ members = [
   "beginner/primitives",
   "beginner/print",
   "beginner/testcase_list",
+  "beginner/tuples",
 ]
