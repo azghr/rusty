@@ -1,6 +1,7 @@
 [workspace]
 resolver = "2"
 members = [
+  "beginner/arrays_and_slices",
   "beginner/comments",
   "beginner/debug",
   "beginner/display",
