@@ -2,6 +2,7 @@
 resolver = "2"
 members = [
   "beginner/arrays_and_slices",
+  "beginner/c_like",
   "beginner/comments",
   "beginner/custom_types",
   "beginner/debug",
