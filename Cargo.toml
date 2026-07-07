@@ -16,5 +16,6 @@ members = [
   "beginner/print",
   "beginner/structures",
   "beginner/testcase_list",
+  "beginner/testcase_list_enum",
   "beginner/tuples",
 ]
