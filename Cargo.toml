@@ -16,6 +16,7 @@ members = [
   "beginner/mutability",
   "beginner/primitives",
   "beginner/print",
+  "beginner/scope_and_shadowing",
   "beginner/structures",
   "beginner/testcase_list",
   "beginner/testcase_list_enum",
