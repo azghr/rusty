@@ -6,6 +6,7 @@ members = [
   "beginner/custom_types",
   "beginner/debug",
   "beginner/display",
+  "beginner/enums",
   "beginner/formatting",
   "beginner/hello",
   "beginner/literals_and_operators",
