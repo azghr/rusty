@@ -19,4 +19,5 @@ members = [
   "beginner/testcase_list",
   "beginner/testcase_list_enum",
   "beginner/tuples",
+  "beginner/variable_bindings",
 ]
