@@ -13,6 +13,7 @@ members = [
   "beginner/formatting",
   "beginner/hello",
   "beginner/literals_and_operators",
+  "beginner/mutability",
   "beginner/primitives",
   "beginner/print",
   "beginner/structures",
