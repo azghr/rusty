@@ -11,6 +11,7 @@ members = [
   "beginner/literals_and_operators",
   "beginner/primitives",
   "beginner/print",
+  "beginner/structures",
   "beginner/testcase_list",
   "beginner/tuples",
 ]
