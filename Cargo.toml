@@ -12,6 +12,7 @@ members = [
   "beginner/enum_use",
   "beginner/enums",
   "beginner/formatting",
+  "beginner/freezing",
   "beginner/hello",
   "beginner/literals_and_operators",
   "beginner/mutability",
