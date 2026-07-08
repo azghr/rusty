@@ -27,6 +27,7 @@ members = [
   "beginner/structures",
   "beginner/testcase_list",
   "beginner/testcase_list_enum",
+  "beginner/tryfrom_and_tryinto",
   "beginner/tuples",
   "beginner/variable_bindings",
 ]
