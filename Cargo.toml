@@ -3,6 +3,7 @@ resolver = "2"
 members = [
   "beginner/arrays_and_slices",
   "beginner/c_like",
+  "beginner/casting",
   "beginner/comments",
   "beginner/constants",
   "beginner/custom_types",
