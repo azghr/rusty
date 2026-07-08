@@ -7,6 +7,7 @@ members = [
   "beginner/constants",
   "beginner/custom_types",
   "beginner/debug",
+  "beginner/declare_first",
   "beginner/display",
   "beginner/enum_use",
   "beginner/enums",
