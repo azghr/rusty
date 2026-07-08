@@ -1,6 +1,7 @@
 [workspace]
 resolver = "2"
 members = [
+  "beginner/aliasing",
   "beginner/arrays_and_slices",
   "beginner/c_like",
   "beginner/casting",
