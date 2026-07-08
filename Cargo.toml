@@ -15,6 +15,7 @@ members = [
   "beginner/formatting",
   "beginner/freezing",
   "beginner/hello",
+  "beginner/inference",
   "beginner/literals",
   "beginner/literals_and_operators",
   "beginner/mutability",
