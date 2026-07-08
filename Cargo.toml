@@ -15,6 +15,7 @@ members = [
   "beginner/enums",
   "beginner/formatting",
   "beginner/freezing",
+  "beginner/from_and_into",
   "beginner/hello",
   "beginner/inference",
   "beginner/literals",
