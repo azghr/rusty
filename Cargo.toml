@@ -21,6 +21,7 @@ members = [
   "beginner/literals",
   "beginner/literals_and_operators",
   "beginner/mutability",
+  "beginner/parsing_a_string",
   "beginner/primitives",
   "beginner/print",
   "beginner/scope_and_shadowing",
