@@ -18,6 +18,7 @@ members = [
   "beginner/freezing",
   "beginner/from_and_into",
   "beginner/hello",
+  "beginner/if_else",
   "beginner/inference",
   "beginner/literals",
   "beginner/literals_and_operators",
