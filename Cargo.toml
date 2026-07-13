@@ -37,4 +37,5 @@ members = [
   "beginner/tryfrom_and_tryinto",
   "beginner/tuples",
   "beginner/variable_bindings",
+  "beginner/while_loop",
 ]
