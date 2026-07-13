@@ -28,6 +28,7 @@ members = [
   "beginner/parsing_a_string",
   "beginner/primitives",
   "beginner/print",
+  "beginner/returning_from_loops",
   "beginner/scope_and_shadowing",
   "beginner/structures",
   "beginner/testcase_list",
