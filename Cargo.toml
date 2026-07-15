@@ -38,4 +38,5 @@ members = [
   "beginner/tuples",
   "beginner/variable_bindings",
   "beginner/while_loop",
+  "course/guessing_game",
 ]
