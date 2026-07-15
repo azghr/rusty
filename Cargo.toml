@@ -39,4 +39,5 @@ members = [
   "beginner/variable_bindings",
   "beginner/while_loop",
   "course/guessing_game",
+  "course/variables",
 ]
