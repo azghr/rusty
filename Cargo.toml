@@ -39,6 +39,7 @@ members = [
   "beginner/variable_bindings",
   "beginner/while_loop",
   "course/data_types",
+  "course/floats",
   "course/guessing_game",
   "course/integers",
   "course/shadowing",
