@@ -45,5 +45,6 @@ members = [
   "course/guessing_game",
   "course/integers",
   "course/shadowing",
+  "course/tuple",
   "course/variables",
 ]
